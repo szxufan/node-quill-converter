@@ -1,13 +1,10 @@
 {
   "name": "@mylinkpi/node-quill-converter",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Convert HTML to Delta or Delta to HTML",
   "keywords": [
   ],
-  "homepage": "https://github.com/joelcolucci/node-quill-converter",
-  "bugs": {
-    "url": "https://github.com/joelcolucci/node-quill-converter/issues"
-  },
+  "homepage": "https://github.com/szxufan/node-quill-converter",
   "main": "./lib/index.js",
   "author": "Joel Colucci",
   "license": "MIT",
